@@ -124,7 +124,7 @@ cd build
 
 ## 代码统计
 
-![](README.assets/2022-01-09 20-01-32 的屏幕截图.png)
+![](./README.assets/cloc.png)
 
 ## 测试
 
@@ -135,9 +135,9 @@ cd build
 |  此项目  |   112662   |  252456   |
 | 参考项目 | 运行出问题 |  204997   |
 
-- 此项目短连接测试![](README.assets/2022-01-09 20-34-52 的屏幕截图.png)
+- 此项目短连接测试![](./README.assets/self-short.png)
 
-- 参考项目短连接测试可能没有主动关闭连接，webbench的测试结果是0succeed，0failed![](README.assets/2022-01-09 20-55-52 的屏幕截图.png)
-- 此项目长连接测试![](README.assets/2022-01-09 20-50-53 的屏幕截图.png)
+- 参考项目短连接测试可能没有主动关闭连接，webbench的测试结果是0succeed，0failed![](./README.assets/ref-short.png)
+- 此项目长连接测试![](./README.assets/self-long.png)
 
-- 参考项目长连接测试![](README.assets/2022-01-09 20-47-36 的屏幕截图.png)
+- 参考项目长连接测试![](./README.assets/ref-long.png)
